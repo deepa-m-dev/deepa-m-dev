@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0e1a?style=for-the-badge&logo=vercel&logoColor=7c3aed&label=&labelColor=0a0e1a)](https://bit.ly/Deepa-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0e1a?style=for-the-badge&logo=vercel&logoColor=7c3aed&label=&labelColor=0a0e1a)](https://deepa-m-dev.github.io/Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=06b6d4)](https://linkedin.com/in/deepa-mofficial)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0e1a?style=for-the-badge&logo=github&logoColor=e2e8f0)](https://github.com/deepa-m-dev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0a0e1a?style=for-the-badge&logo=leetcode&logoColor=f59e0b)](https://leetcode.com/Deeps_M)
@@ -114,9 +114,9 @@ Full-stack ML system predicting urban traffic congestion via Linear Regression a
 <td width="50%" valign="top">
 
 ### 💡 More Coming Soon...
-**`AI · React · APIs`**
+**`AI · APIs`**
 
-Currently building more AI-powered portfolio projects. Stay tuned and watch the repo!
+Currently building more AI-powered projects. Stay tuned and watch the repo!
 
 [![GitHub](https://img.shields.io/badge/Follow-0a0e1a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/deepa-m-dev)
 
@@ -126,31 +126,14 @@ Currently building more AI-powered portfolio projects. Stay tuned and watch the 
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 LeetCode Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepa-m-dev&show_icons=true&theme=tokyonight&bg_color=0a0e1a&border_color=7c3aed&title_color=06b6d4&icon_color=7c3aed&text_color=e2e8f0&hide_border=false&rank_icon=github" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepa-m-dev&layout=compact&theme=tokyonight&bg_color=0a0e1a&border_color=7c3aed&title_color=06b6d4&text_color=e2e8f0" height="160" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=deepa-m-dev&theme=tokyonight&background=0a0e1a&border=7c3aed&ring=06b6d4&fire=7c3aed&currStreakLabel=06b6d4&sideLabels=94a3b8&dates=94a3b8" height="160" />
+<img src="https://leetcard.jacoblin.cool/Deeps_M?theme=dark&font=Fira%20Code&ext=heatmap&border=1&border_radius=8&bg_color=0a0e1a&text_color=e2e8f0&border_color=7c3aed&title_color=06b6d4&icon_color=7c3aed&solved_color=06b6d4&easy_color=6bcb47&medium_color=f59e0b&hard_color=ef4444" />
 
 </div>
 
----
-
-## 🏆 Highlights
-
-```
-🥇  Ranked 1st in Grade 12   →  School Excellence Award
-🎓  Merit Scholarship         →  3rd rank in 1st-year BCA
-📚  4× Academic Honors        →  Perfect scores in Commerce & Accounts
-💻  50+ LeetCode problems     →  Consistent problem solver
-🏢  EY (Ernst & Young)        →  Assurance Analyst Trainee (Dec 2025 – Mar 2026)
-```
 
 ---
 

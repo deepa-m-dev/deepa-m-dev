@@ -84,7 +84,7 @@ deepa = {
 AI-powered hiring platform that predicts candidate success probability. Features an end-to-end ML pipeline with SMOTE balancing, feature engineering, and an analytics dashboard for real-time insights.
 
 [![GitHub](https://img.shields.io/badge/Code-0a0e1a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/deepa-m-dev/AI-Hiring-System)
-[![Live](https://img.shields.io/badge/Live%20Demo-7c3aed?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Live](https://img.shields.io/badge/Live%20Demo-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://ai-hiring-system-aowd.onrender.com/)
 
 </td>
 <td width="50%" valign="top">
@@ -95,7 +95,7 @@ AI-powered hiring platform that predicts candidate success probability. Features
 Real-time API monitoring platform with a built-in analytics engine for traffic trends, failure tracking, and health scoring. Features live log ingestion and CSV report exports.
 
 [![GitHub](https://img.shields.io/badge/Code-0a0e1a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/deepa-m-dev/smart-observability-platform)
-[![Live](https://img.shields.io/badge/Live%20Demo-7c3aed?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Live](https://img.shields.io/badge/Live%20Demo-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://smart-observability-platform.onrender.com/)
 
 </td>
 </tr>

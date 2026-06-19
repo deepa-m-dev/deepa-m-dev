@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepa M</h1>
-<h3 align="center">Software Developer • Python Enthusiast • AI & Data Science Learner</h3>
+
+<h3 align="center">
+Software Developer • AI & Machine Learning Enthusiast • BCA Graduate
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=BCA+Graduate;Software+Developer;Python+%7C+Java+%7C+Web+Development;AI+%26+Data+Science+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Python+Developer;Machine+Learning+Enthusiast;AI+and+Data+Science+Learner;Full+Stack+Development+Explorer" />
 </p>
 
 ---
@@ -11,19 +14,20 @@
 
 🎓 BCA Graduate
 
-💻 Interested in Software Development, Python Development, AI, and Data Science
+💻 Passionate about Software Development, Artificial Intelligence, Machine Learning, and Problem Solving
 
-🧠 Passionate about Coding, Mathematics, Problem Solving, and Logical Thinking
+🧠 Strong interest in building intelligent systems using AI and data-driven technologies
 
-🌱 Currently learning:
-- Advanced DSA
+🌱 Currently expanding my knowledge in:
 - Machine Learning
-- AI Technologies
-- Full Stack Development
+- Deep Learning Fundamentals
+- Data Science
+- System Design
+- Advanced DSA
 
-🎤 Experienced in public speaking and event compering
+🎤 Public Speaker and Event Comperer
 
-🎨 Hobbies:
+🎨 Creative Interests:
 - Realistic Drawing
 - Portrait Art
 - Painting
@@ -33,7 +37,7 @@
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,63 +47,115 @@
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Database
+### Machine Learning & AI
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge)
+
+### Database & Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 AI Hiring & Recruitment Intelligence System
+## 🤖 HireAI – AI Hiring & Recruitment Intelligence System
 
-AI-powered recruitment platform that predicts candidate suitability using Machine Learning.
+An AI-powered recruitment platform that predicts candidate suitability using Machine Learning.
 
-**Tech Stack:**  
-Python • Flask • XGBoost • Scikit-Learn • Pandas • NumPy • SQLite
+**Tech Stack**
+- Python
+- Flask
+- XGBoost
+- Scikit-Learn
+- Pandas
+- NumPy
+- SQLite
 
-**Features**
-- Candidate suitability prediction
-- Data preprocessing
-- Analytics dashboard
-- Web deployment
+### Key Features
+✔ Candidate suitability prediction
+
+✔ Resume analysis
+
+✔ Feature engineering & preprocessing
+
+✔ Analytics dashboard
+
+✔ Explainable AI insights
 
 🔗 Live Demo: https://ai-hiring-system-aowd.onrender.com/
 
 ---
 
-### 🛒 E-Commerce Web Application
+## 🏙️ UrbanAI – Smart Urban Analytics Platform
 
-Features:
-- Product browsing
-- Shopping cart
-- Order management
-- Real-time stock updates
-- Custom product lists
-- One-click add-to-cart
+AI-powered urban intelligence system designed to analyze city-related data and generate insights for smarter decision-making.
 
-Tech Stack:
-React • Spring Boot • MySQL
+### Features
+
+✔ Data-driven analytics
+
+✔ Predictive insights
+
+✔ Interactive dashboards
+
+✔ Urban trend analysis
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Smart Observability Platform
+
+A modern observability solution for monitoring applications, infrastructure, and system performance.
+
+### Features
+
+✔ Real-time monitoring
+
+✔ Performance analytics
+
+✔ Log management
+
+✔ Alerting and insights
+
+✔ Dashboard visualization
+
+---
+
+## 🎓 Student Management System *(Optional)*
+
+A complete student record management application for handling academic information efficiently.
+
+### Features
+
+✔ Student registration
+
+✔ Academic record management
+
+✔ Search and update operations
+
+✔ Database integration
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
@@ -116,35 +172,24 @@ React • Spring Boot • MySQL
 
 ---
 
-## 💻 Coding Profiles
+## 🎯 Current Focus
 
-- LeetCode: https://leetcode.com/YOUR_USERNAME
-- HackerRank: https://www.hackerrank.com/YOUR_USERNAME
-
----
-
-## 🎯 2026 Goals
-
-✅ Land a Software Development Role
-
-✅ Strengthen DSA & Problem Solving
-
-✅ Build Full Stack Projects
-
-✅ Learn AI & Machine Learning
-
-✅ Contribute to Open Source
+- Software Engineering
+- Machine Learning
+- Artificial Intelligence
+- Full Stack Development
+- Data Structures & Algorithms
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepa-mofficial)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepa-m-dev)
+- LinkedIn: YOUR_LINKEDIN_URL
+- GitHub: https://github.com/YOUR_USERNAME
+- Email: YOUR_EMAIL
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+  ⭐ Building intelligent software, solving real-world problems, and continuously learning. ⭐
 </p>

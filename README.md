@@ -28,8 +28,7 @@
 deepa = {
     "role"      : "Software Engineer",
     "focus"     : ["AI/ML Systems", "Full-Stack Development", "Data Analytics"],
-    "education" : "BCA @ Vels University (CGPA: 9.3/10)",
-    "fun_fact"  : "Ranked 1st in Grade 12 & holds a Merit Scholarship in BCA 🏆"
+    "education" : "BCA @ Vels University"
 }
 ```
 

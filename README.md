@@ -26,7 +26,7 @@
 
 ```python
 deepa = {
-    "role"      : "Software Engineer",
+    "role"      : ["Software Engineer","ML Developer"],
     "focus"     : ["AI/ML Systems", "Full-Stack Development", "Data Analytics"],
     "education" : "BCA @ Vels University"
 }

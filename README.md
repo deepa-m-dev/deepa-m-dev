@@ -22,79 +22,77 @@
 
 ---
 
-## `whoami`
+### `whoami`
 
 ```python
 deepa = {
-    "role"      : ["Software Engineer","ML Developer"],
+    "role"      : ["Software Engineer", "ML Developer"],
     "focus"     : ["AI/ML Systems", "Full-Stack Development", "Data Analytics"],
     "education" : "BCA @ Vels University"
 }
 ```
 
----
-
-## ⚡ Tech Stack
-
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0a0e1a?style=for-the-badge&logo=python&logoColor=06b6d4)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0e1a?style=for-the-badge&logo=javascript&logoColor=f59e0b)
-![Java](https://img.shields.io/badge/Java-0a0e1a?style=for-the-badge&logo=openjdk&logoColor=ef4444)
-![SQL](https://img.shields.io/badge/SQL-0a0e1a?style=for-the-badge&logo=postgresql&logoColor=7c3aed)
-![HTML](https://img.shields.io/badge/HTML5-0a0e1a?style=for-the-badge&logo=html5&logoColor=e2633a)
-![CSS](https://img.shields.io/badge/CSS3-0a0e1a?style=for-the-badge&logo=css3&logoColor=06b6d4)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-0a0e1a?style=for-the-badge&logo=react&logoColor=06b6d4)
-![Flask](https://img.shields.io/badge/Flask-0a0e1a?style=for-the-badge&logo=flask&logoColor=e2e8f0)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-0a0e1a?style=for-the-badge&logo=springboot&logoColor=6bcb47)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0e1a?style=for-the-badge&logo=bootstrap&logoColor=7c3aed)
-
-**ML / Data**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0e1a?style=for-the-badge&logo=scikitlearn&logoColor=f59e0b)
-![Pandas](https://img.shields.io/badge/Pandas-0a0e1a?style=for-the-badge&logo=pandas&logoColor=06b6d4)
-![NumPy](https://img.shields.io/badge/NumPy-0a0e1a?style=for-the-badge&logo=numpy&logoColor=7c3aed)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0e1a?style=for-the-badge&logo=python&logoColor=e2e8f0)
-
-**Tools & Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-0a0e1a?style=for-the-badge&logo=mysql&logoColor=06b6d4)
-![SQLite](https://img.shields.io/badge/SQLite-0a0e1a?style=for-the-badge&logo=sqlite&logoColor=7c3aed)
-![Git](https://img.shields.io/badge/Git-0a0e1a?style=for-the-badge&logo=git&logoColor=ef4444)
-![Alteryx](https://img.shields.io/badge/Alteryx-0a0e1a?style=for-the-badge&logo=alteryx&logoColor=06b6d4)
+| OS | Host | Kernel | IDE | Shell | Education |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| Windows 11 | Full-Stack & ML Developer | Chennai, India | VS Code · Android Studio | Git · GitHub Actions | BCA, Vels University ('23–'26) |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### ⚡ Tech Stack
+
+One badge set per category — no duplicates, no filler.
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,java,js,html,css&theme=dark" /><br/><sub>Languages</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,flask,spring,bootstrap&theme=dark" /><br/><sub>Frameworks</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=androidstudio,xml&theme=dark" /><br/><sub>Mobile — Android Studio, Java, XML</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy&theme=dark" /><br/><sub>ML / Data — + Matplotlib</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git&theme=dark" /><br/><sub>Tools & DB — + Alteryx</sub>
+
+</div>
+
+---
+
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 HireAI — Recruitment Intelligence System
-**`XGBoost · Flask · Scikit-learn · SQLite`**
+**🤖 HireAI — Recruitment Intelligence System**
+<br/><sub>XGBoost · Flask · Scikit-learn · SQLite</sub>
 
-AI-powered hiring platform that predicts candidate success probability. Features an end-to-end ML pipeline with SMOTE balancing, feature engineering, and an analytics dashboard for real-time insights.
+AI-powered hiring platform predicting candidate success probability. End-to-end ML pipeline with SMOTE balancing, feature engineering, and a real-time analytics dashboard.
 
-[![GitHub](https://img.shields.io/badge/Code-0a0e1a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/deepa-m-dev/AI-Hiring-System)
+[![Code](https://img.shields.io/badge/Code-0a0e1a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/deepa-m-dev/AI-Hiring-System)
 [![Live](https://img.shields.io/badge/Live%20Demo-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://ai-hiring-system-aowd.onrender.com/)
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 Smart Observability Platform
-**`Flask · Pandas · Matplotlib · SQLite`**
+**📡 Smart Observability Platform**
+<br/><sub>Flask · Pandas · Matplotlib · SQLite</sub>
 
-Real-time API monitoring platform with a built-in analytics engine for traffic trends, failure tracking, and health scoring. Features live log ingestion and CSV report exports.
+Real-time API monitoring platform with a built-in analytics engine for traffic trends, failure tracking, and health scoring — live log ingestion plus CSV exports.
 
-[![GitHub](https://img.shields.io/badge/Code-0a0e1a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/deepa-m-dev/smart-observability-platform)
+[![Code](https://img.shields.io/badge/Code-0a0e1a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/deepa-m-dev/smart-observability-platform)
 [![Live](https://img.shields.io/badge/Live%20Demo-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://smart-observability-platform.onrender.com/)
 
 </td>
@@ -102,22 +100,22 @@ Real-time API monitoring platform with a built-in analytics engine for traffic t
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 UrbanFlow AI — Traffic Intelligence
-**`Scikit-learn · Flask · K-Means · React`**
+**🚦 UrbanFlow AI — Traffic Intelligence**
+<br/><sub>Scikit-learn · Flask · K-Means · React</sub>
 
-Full-stack ML system predicting urban traffic congestion via Linear Regression and K-Means clustering. Includes an interactive visualization dashboard and real-time REST API predictions.
+Full-stack ML system predicting urban traffic congestion via linear regression and K-Means clustering, with an interactive dashboard and real-time REST API predictions.
 
-[![GitHub](https://img.shields.io/badge/Code-0a0e1a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/deepa-m-dev/UrbanFlow-AI)
+[![Code](https://img.shields.io/badge/Code-0a0e1a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/deepa-m-dev/UrbanFlow-AI)
 
 </td>
 <td width="50%" valign="top">
 
-### 💡 More Coming Soon...
-**`AI · APIs`**
+**💡 More in progress**
+<br/><sub>AI · APIs</sub>
 
-Currently building more AI-powered projects. Stay tuned and watch the repo!
+New AI-powered projects are actively in the pipeline. Watch the profile for updates.
 
-[![GitHub](https://img.shields.io/badge/Follow-0a0e1a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/deepa-m-dev)
+[![Follow](https://img.shields.io/badge/Follow-0a0e1a?style=flat-square&logo=github&logoColor=e2e8f0)](https://github.com/deepa-m-dev)
 
 </td>
 </tr>
@@ -125,14 +123,18 @@ Currently building more AI-powered projects. Stay tuned and watch the repo!
 
 ---
 
-## 🧩 LeetCode Stats
+### 📊 Stats
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=deepa-m-dev&show_icons=true&theme=transparent&hide_border=true&bg_color=0a0e1a&title_color=06b6d4&icon_color=7c3aed&text_color=e2e8f0" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepa-m-dev&theme=transparent&hide_border=true&background=0a0e1a&ring=7c3aed&fire=f59e0b&currStreakLabel=06b6d4" height="165" />
+
+<br/>
 
 <img src="https://leetcard.jacoblin.cool/Deeps_M?theme=dark&font=Fira%20Code&ext=heatmap&border=1&border_radius=8&bg_color=0a0e1a&text_color=e2e8f0&border_color=7c3aed&title_color=06b6d4&icon_color=7c3aed&solved_color=06b6d4&easy_color=6bcb47&medium_color=f59e0b&hard_color=ef4444" />
 
 </div>
-
 
 ---
 

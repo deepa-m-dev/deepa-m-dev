@@ -5,10 +5,6 @@
 
 <br/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications+%F0%9F%A4%96;Python+%7C+React+%7C+Flask+%7C+ML+Engineer;Turning+data+into+intelligent+systems+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">

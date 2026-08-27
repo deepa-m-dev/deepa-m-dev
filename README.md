@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications+%F0%9F%A4%96;Java+%7C+Spring+Boot+%7C+Full-Stack+Developer;Python+%7C+Scikit-learn+%7C+ML+Engineer;Android+Native+%7C+Java+%7C+XML+%7C+Mobile+Developer;Turning+data+into+intelligent+systems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0e1a?style=for-the-badge&logo=vercel&logoColor=7c3aed&label=&labelColor=0a0e1a)](https://deepa-m-dev.github.io/Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=06b6d4)](https://linkedin.com/in/deepa-mofficial)

@@ -53,6 +53,7 @@ deepa = {
 ![Flask](https://img.shields.io/badge/Flask-0a0e1a?style=for-the-badge&logo=flask&logoColor=e2e8f0)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-0a0e1a?style=for-the-badge&logo=springboot&logoColor=6bcb47)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0e1a?style=for-the-badge&logo=bootstrap&logoColor=7c3aed)
+![Android](https://img.shields.io/badge/Android_Native-0a0e1a?style=for-the-badge&logo=android&logoColor=6bcb47)
 
 **ML / Data**
 

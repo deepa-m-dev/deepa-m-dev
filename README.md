@@ -29,7 +29,7 @@
 deepa = {
     "role"      : ["Software Engineer","ML Developer"],
     "focus"     : ["AI/ML Systems", "Full-Stack Development","Android Native Application Development", "Data Analytics"],
-   "education" : "BCA @ Vels University"
+    "education" : "BCA @ Vels University"
 }
 ```
 
